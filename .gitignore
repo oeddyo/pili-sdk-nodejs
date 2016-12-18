@@ -6,6 +6,7 @@ example/local-test.js
 # Logs
 logs
 *.log
+.idea/*
 
 # Runtime data
 pids
